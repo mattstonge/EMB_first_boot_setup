@@ -85,3 +85,57 @@ function MainMenuPage()
 
 }
 
+
+
+function WriteTMPfile()
+{
+
+# takes new variable values and writes to a temporary file
+
+}
+
+
+
+function ApplyNewSettings()
+{
+
+# takes values from the temporary file and applies them to the system
+
+}
+
+
+
+function ConfirmSettings()
+{
+
+# disaply the state of settings post-application
+
+
+}
+
+
+
+function FactoryResset()
+{
+
+# removes current data/settings/containers/etc
+# takes values from defaults and applies them
+# effectively doing a factory reset
+
+}
+
+
+function DisplayDefaults()
+{
+
+# shows factory default settings
+
+}
+
+
+
+
+
+
+
+
